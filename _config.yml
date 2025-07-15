@@ -1,7 +1,7 @@
 title: "Tech Blog - Balasubramanian S"
 description: "AWS, Containers, and Infrastructure insights from the field"
 author: "Balasubramanian S"
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 markdown: kramdown
 
 # Social links
