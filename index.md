@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Tech Blog - Balasubramanian S"
 ---
 
 # Balasubramanian S
