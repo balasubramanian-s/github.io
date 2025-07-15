@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Rethinking Container Persistence: Why I Ditched EBS Volumes for ECR"
-date: 2026-01-08
+date: 2025-07-15
 author: Balasubramanian S
 categories: [AWS, Containers, DevOps]
 tags: [aws, ecs, ecr, docker, containers, devops, infrastructure]
