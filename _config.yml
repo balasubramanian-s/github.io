@@ -1,4 +1,20 @@
-title: "Rethinking Container Persistence"
-description: "AWS, Containers, and Infrastructure insights"
+title: "Tech Blog - Balasubramanian S"
+description: "AWS, Containers, and Infrastructure insights from the field"
+author: "Balasubramanian S"
 theme: minima
 markdown: kramdown
+
+# Social links (optional)
+github_username: balasubramanian-s
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  skin: dark
+
+# Show excerpts on home page
+show_excerpts: true
