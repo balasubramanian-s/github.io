@@ -35,6 +35,7 @@ Sometimes the simplest solution is already in your AWS account — you just need
 ---
 
 ### [AWS Systems Manager for Running Progress Chef InSpec Profiles](https://www.chef.io/blog/aws-systems-manager-for-running-progress-chef-inspec-profiles)
+**February 29, 2024** . 5 min read
 
 Learn how to leverage AWS Systems Manager to run Chef InSpec compliance and security profiles across your infrastructure at scale.
 
