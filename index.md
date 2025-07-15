@@ -4,7 +4,7 @@ layout: default
 
 # Balasubramanian S
 
-**Cloud Infrastructure Engineer | AWS Specialist | Container Orchestration Enthusiast**
+🎯 **Aspiring Cloud Engineer | DevOps Enthusiast | Continuous Learner**
 
 Sharing practical insights on AWS, containers, DevOps, and infrastructure engineering from real-world experience.
 
@@ -12,7 +12,7 @@ Sharing practical insights on AWS, containers, DevOps, and infrastructure engine
 
 ## About Me
 
-I'm a cloud infrastructure engineer specializing in AWS, container orchestration, and building scalable systems. I write about practical solutions to real problems I encounter in production environments.
+I'm a cloud infrastructure engineer specializing in AWS, kubernetes, and building scalable systems. I write about practical solutions to real problems I encounter in production environments.
 
 **Connect with me:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/balasubramanian-s-257354137/)
@@ -37,7 +37,7 @@ Sometimes the simplest solution is already in your AWS account — you just need
 ## Topics I Write About
 
 - ☁️ AWS Architecture & Best Practices
-- 🐳 Container Orchestration (ECS, EKS, Docker)
+- 🐳 Kubernetes (ECS, EKS, Docker)
 - 🚀 DevOps & Infrastructure as Code
 - 🔧 Production Engineering & Operations
 - 💡 Practical Solutions to Real Problems
