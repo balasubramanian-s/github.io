@@ -4,7 +4,7 @@ layout: default
 
 # Balasubramanian S
 
-🎯 **Aspiring Cloud Engineer | DevOps Enthusiast | Continuous Learner**
+Senior Software Engineer | Progress Chef
 
 Sharing practical insights on AWS, containers, DevOps, and infrastructure engineering from real-world experience.
 
