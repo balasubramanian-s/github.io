@@ -49,15 +49,6 @@ Storage costs have dropped a ton. S3, ECR, EBS - they're all cheap now. Storing 
 
 We know storage is cheap these days. But here's the real question: **do we really need hard storage for everything?**
 
-### What Actually Keeps You Up at Night
-
-You know what does keep you up?
-
-- 🔴 EBS volume attachment failures
-- 💰 Orphaned EBS volumes accumulating costs
-- 📍 ECS tasks stuck because volumes are in the wrong AZ
-- 🔄 Migrating volumes between ECS clusters or regions
-
 So I started asking: if storage is cheap, why are we building all this infrastructure just to save some container state?
 
 ## Amazon ECR Is Already a Storage System
